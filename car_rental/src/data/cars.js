@@ -6,13 +6,15 @@ import fortunerImg from "../assets/images/fortuner.jpg";
 import scorpioClassicImg from "../assets/images/scorpioClassic.jpg";
 import ciazImg from "../assets/images/ciaz.jpg";
 import vernaImg from "../assets/images/verna.jpg";
+import curvvImg from "../assets/images/curvv.png";
+
 
 const IMG = {
   baleno: balenoImg,
   brezza: brezzaImg,
   swift: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg/960px-Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg",
   volvo: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg/960px-Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg",
-  curvv: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2025_Tata_Curvv_Creative%2B_S_Petrol_%28India%29_front_view.png/960px-2025_Tata_Curvv_Creative%2B_S_Petrol_%28India%29_front_view.png",
+  curvv: curvvImg,
   scorpioClassic: scorpioClassicImg,
   grandi10: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_i10_1.0_Intro_%28III%29_%E2%80%93_f_03012021.jpg/960px-Hyundai_i10_1.0_Intro_%28III%29_%E2%80%93_f_03012021.jpg",
   thar: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg/960px-Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg",
